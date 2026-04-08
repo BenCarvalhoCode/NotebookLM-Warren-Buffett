@@ -1,3 +1,5 @@
+# Link do NotebookLM criado para o projeto: https://notebooklm.google.com/notebook/b8c09898-26d9-4178-bf1e-b029796b10ff
+
 # Contexto e Objetivos: 
 - Por atuar no Mercado Financeiro, escolhi aprofundar o estudo acerca do Warren Buffet, um dos maiores investidores do mundo.  
 - Com objetivo direto de entender como fez e faz suas escolhas de investimentos diante do contexto de vida e conseguir mapear como se tornou quem é atualmente, 
